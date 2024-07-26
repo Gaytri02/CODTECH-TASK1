@@ -12,8 +12,10 @@ Overview of the Project:
 ![Screenshot 2024-07-26 224212](https://github.com/user-attachments/assets/9c3d3dbb-af88-4c9a-8564-e71a0717e100)
 ![Screenshot 2024-07-26 224331](https://github.com/user-attachments/assets/513158ff-1b69-408f-a532-37afba03d248)
 
-Project:
-A Simple Calculator Objective To create a simple Java console application that functions as a basic calculator. The application will prompt the user to enter two numbers and an operation (addition, subtraction, multiplication, division), perform the selected operation, and display the result.
+Project:A Simple Calculator 
+
+Objective: 
+To create a simple Java console application that functions as a basic calculator. The application will prompt the user to enter two numbers and an operation (addition, subtraction, multiplication, division), perform the selected operation, and display the result.
 
 Features: 
 1.User Input: The program will prompt the user to enter two numeric values.
